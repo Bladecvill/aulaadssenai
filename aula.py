@@ -1,1 +1,0 @@
-print("Oi turma de ADS com Git =D")
