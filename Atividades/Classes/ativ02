@@ -1,0 +1,3 @@
+#Crie um sistema de estoque com duas classes: Produto e Estoque.
+#A classe Produto deve ter os atributos privados nome, preco e quantidade.
+#A classe Estoque deve ter os metodos: cadastrar produto, adicionar quantidade, remover quantidade e listar produtos. O sistema deve rodar em um menu de opcoes.

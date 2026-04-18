@@ -1,0 +1,2 @@
+# Validador de senha
+#Crie uma função validar_senha(senha) que verifique se a senha tem pelo menos 8 caracteres e retorne True ou False. No programa principal, use while para continuar pedindo uma senha ao usuário até que ela seja válida.

@@ -1,0 +1,3 @@
+#Crie um sistema de clinica com duas classes: Animal e Clinica.
+#A classe Animal deve ter os atributos privados nome, especie e dono. 
+#A classe Clinica deve ter os metodos: cadastrar animal, buscar animal pelo nome do dono e listar todos os animais. O sistema deve rodar em um menu de opcoes.

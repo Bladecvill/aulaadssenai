@@ -1,0 +1,3 @@
+#Crie um sistema de biblioteca com duas classes: Livro e Biblioteca.
+#A classe Livro deve ter os atributos privados titulo, autor e disponivel.
+#A classe Biblioteca deve ter uma lista de livros e os metodos: cadastrar livro, emprestar livro, devolver livro e listar livros. O sistema deve rodar em um menu de opcoes.

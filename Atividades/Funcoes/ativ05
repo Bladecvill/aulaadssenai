@@ -1,0 +1,2 @@
+#Relatório de turma
+Crie duas funções: calcular_media(notas) e situacao_aluno(media). Monte uma lista de dicionários com nome e notas de 4 alunos. Use for para percorrer a lista, chamar as duas funções e exibir um relatório com nome, média e situação de cada aluno.

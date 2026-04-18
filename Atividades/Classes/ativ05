@@ -1,0 +1,3 @@
+#Crie um sistema escolar com duas classes: Aluno e Escola.
+#A classe Aluno deve ter os atributos privados nome, matricula e lista de notas.#
+A classe Escola deve ter os metodos: matricular aluno, lancar nota, calcular media do aluno e listar alunos. O sistema deve rodar em um menu de opcoes.

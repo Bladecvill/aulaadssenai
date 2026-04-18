@@ -1,0 +1,3 @@
+#Crie um sistema de locadora com duas classes: Veiculo e Locadora.
+#A classe Veiculo deve ter os atributos privados modelo, placa e alugado.
+#A classe Locadora deve ter os metodos: cadastrar veiculo, alugar veiculo pela placa, devolver veiculo e listar veiculos disponiveis. O sistema deve rodar em um menu de opcoes.
